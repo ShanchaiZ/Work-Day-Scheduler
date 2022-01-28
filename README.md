@@ -25,4 +25,4 @@ This day planner helps in ensuring that the essential tasks are completed first 
 
 28 January 2022
 
-Link to Deployed Project:
+Link to Deployed Project: https://shanchaiz.github.io/Work-Day-Scheduler/
